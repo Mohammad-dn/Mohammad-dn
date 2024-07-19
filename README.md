@@ -7,7 +7,6 @@
 - **Current Role:** Front-end Developer with +2 years experiances
 - **Expertise:** React.js Next.js 
 - **Languages:** Persian, English
-- **Work:** Currently serving as the lead front-end developer at [inja.homes](https://inja.homes).
 
 
 <br/>
