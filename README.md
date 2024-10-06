@@ -3,7 +3,7 @@
 # Who am I?
 
 - **Name:** Mohammad Dehghani
-- **Age:** 25
+- **Age:** 26
 - **Current Role:** Front-end Developer with +2 years of experience
 - **Expertise:** React.js, Next.js
 - **Languages:** Persian, English
@@ -18,7 +18,7 @@
 
 # 💫 About Me:
 
-Hey! 👋 I'm **Mohammad Dehghani**, a 25-year-old **front-end developer**.
+Hey! 👋 I'm **Mohammad Dehghani**, a 26-year-old **front-end developer**.
 
 <br/>
 <br/>
