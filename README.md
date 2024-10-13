@@ -7,12 +7,8 @@
 - **Current Role:** Front-end Developer with +2 years of experience
 - **Expertise:** React.js, Next.js
 - **Languages:** Persian, English
-- **Work History:**
-  - **Most Recent Role:**
+- **Work:**
     - **Front-end Developer** at **[pors.ir](https://www.pors.ir)**: Focused on the food market
-  - **Previous Role:**
-    - **Front-end Developer and Product Adviser** at **[inja.homes](https://www.inja.homes)**: Worked on residential platform redesign for 2 years
-
 <br/>
 <br/>
 
