@@ -5,7 +5,7 @@
 - **Name:** Mohammad Dehghani
 - **Age:** 26
 - **Current Role:** Front-end Developer 
-- **Expertise:** React.js, Next.js
+- **Expertise:** React.js, Next.js, javaScript
 - **Languages:** Persian, English
 - **Work:**
     - **Front-end Developer** at **[pors.ir](https://www.pors.ir)**: Focused on the food market
