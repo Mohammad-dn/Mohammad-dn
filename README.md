@@ -5,7 +5,7 @@
 - **Name:** Mohammad Dehghani
 - **Age:** 26
 - **Current Role:** Front-end Developer 
-- **Expertise:** React.js, Next.js, javaScript
+- **Expertise:** React.js, Next.js
 - **Languages:** Persian, English
 
 <br/>
