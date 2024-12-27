@@ -7,8 +7,7 @@
 - **Current Role:** Front-end Developer 
 - **Expertise:** React.js, Next.js, javaScript
 - **Languages:** Persian, English
-- **Work:**
-    - **Front-end Developer** at **[pors.ir](https://www.pors.ir)**: Focused on the food market
+
 <br/>
 <br/>
 
